@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @yatishsharma31
-- 👀 I’m interested in working in data science project.
-- 🌱 I have good knowledge of machine learning algorithms with hands on experience & I'm looking forward to go deep into the deep learning
+- 👋 Hi, I’m @yatishsharma31, I’m currently working as Data Engineer at Barclays.
+- 🌱 I have hands on knowledge to build and optimise large-scale data pipelines, ETL processes and data warehouse solutions. I also have keen interest in machine learning models and algorithms.
 - 💞️ I’m looking to collaborate on projects regarding data science and if anyone want to involve me in his/her project, do reach out to me.
-- 📫 How to reach me - you can contact me on mail. Here is my email id - yattissharma@gmail.com
+- 📫 How to reach me - you can contact me on mail. Here is my email id - yattishsharma@gmail.com
 
 <!---
 yatishsharma31/yatishsharma31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
